@@ -70,5 +70,5 @@ fun main() {
     val wolf = Wolf()
     val hippo = Hippo()
     vet.giveShot(wolf)
-    vet.giveShot(hippo)
+    vet.giveShot(hippo)//
 }
