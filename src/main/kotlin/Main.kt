@@ -134,7 +134,7 @@ class Game() {
 
             if (!correct) {
                 println("Ошибка! Повторите ввод!")
-                //давай по новой миша всё хня
+                //давай по новой миша всё хуйня
             }
         }
         player.decks.add(Player.Deck(tempcoord, tempstate))
