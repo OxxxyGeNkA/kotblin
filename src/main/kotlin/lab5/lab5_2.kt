@@ -23,6 +23,6 @@ fun main() {
         Dragon(),
         Monster())
     for (item in m) {
-        item.frighten()//
+        item.frighten()
     }
 }
